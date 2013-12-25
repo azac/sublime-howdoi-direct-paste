@@ -1,6 +1,6 @@
 #howdoi direct paste
 
-#### Paste StackOverflow search result directly into Sublime Text 2
+#### Paste code from StackOverflow search result directly into Sublime Text 2
 
 
 <img src="http://azac.pl/out.gif" width="400"/>
@@ -11,6 +11,7 @@ Based on [howdoi](https://github.com/gleitz/howdoi).
 
 1. Install **howdoi**: `pip install howdoi` (!!!)
 2. Clone this repo into `Packages` directory [Sublime Text 2 menu >> Preferences >> Browse Packages...]
+```git clone https://github.com/azac/sublime-howdoi-direct-paste```
 
 ## Usage
 
