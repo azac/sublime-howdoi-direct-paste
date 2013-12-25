@@ -15,5 +15,5 @@ Based on [howdoi](https://github.com/gleitz/howdoi).
 ## Usage
 
 1. write what you need
-2. press `cmd+shift+h` (`ctrl` on Linux) 
+2. press `cmd+shift+h` (`ctrl-shift-h` on Linux) 
 
