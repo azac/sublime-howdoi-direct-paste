@@ -10,7 +10,7 @@ Based on [howdoi](https://github.com/gleitz/howdoi).
 ## Installation
 
 1. Install **howdoi**: `pip install howdoi` (!!!)
-2. Clone this repo into `Packages` directory.
+2. Clone this repo into `Packages` directory [Sublime Text 2 menu >> Preferences >> Browse Packages...]
 
 ## Usage
 
