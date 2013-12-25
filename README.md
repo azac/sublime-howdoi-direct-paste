@@ -1,5 +1,8 @@
 # Howdoi - direct paste search result into Sublime Text 2
 
+
+<img src="http://azac.pl/out.gif" width="400"/>
+
 Based on [howdoi](https://github.com/gleitz/howdoi).
 
 ## Installation
