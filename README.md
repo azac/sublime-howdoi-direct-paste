@@ -1,4 +1,6 @@
-# Howdoi - direct paste search result into Sublime Text 2
+#howdoi direct paste
+
+#### Paste StackOverflow search result directly into Sublime Text 2
 
 
 <img src="http://azac.pl/out.gif" width="400"/>
