@@ -19,4 +19,4 @@ Based on [howdoi](https://github.com/gleitz/howdoi).
 
 #### Compatibility
 
-At the moment this only works in Sublime Text 2 on Mac and Linux. Windows & ST3 support on the way.
+Windows and Sublime Text 3 compatibility problems have been hopefully solved (thanks to @saaguero), now it should work on all platforms.
