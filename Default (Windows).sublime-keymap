@@ -1,0 +1,5 @@
+[  
+    {   
+        "keys": ["ctrl+shift+h"], "command": "howdoi_direct"   
+    }  
+]  
