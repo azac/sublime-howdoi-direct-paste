@@ -1,4 +1,4 @@
-#### Paste code from StackOverflow search result directly into Sublime Text
+#### Paste code from StackOverflow search result directly into Sublime Text 2/3
 
 
 <img src="http://azac.pl/out.gif" width="400"/>
@@ -14,13 +14,17 @@ Based on [howdoi](https://github.com/gleitz/howdoi).
 #### Usage
 
 1. write what you need
-2. press `cmd+shift+h` (`ctrl-shift-h` on Linux) 
+2. press `cmd+shift+h` (`ctrl-shift-h` on Linux/Windows) 
 
 
 #### Compatibility
 
-Windows and Sublime Text 3 compatibility problems have been hopefully solved (thanks to [@saaguero](https://github.com/saaguero)), now it should work on all platforms.
+Windows and Sublime Text 3 compatibility problems have been solved (thanks to [@saaguero](https://github.com/saaguero)), now it should work on all platforms.
 
+#### Troubleshooting
+##### I can't install howdoi (last version) on Windows machines
+- Install lxml using `easy_install lxml==2.3` or thru an already compiled version [lxml](http://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml)
+- Use pip to install howdoi `pip install howdoi`
 
 #### Problems or request to add some functionality?
 
