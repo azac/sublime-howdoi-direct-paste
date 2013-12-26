@@ -16,3 +16,7 @@ Based on [howdoi](https://github.com/gleitz/howdoi).
 1. write what you need
 2. press `cmd+shift+h` (`ctrl-shift-h` on Linux) 
 
+
+#### Compatibility
+
+At the moment this only works in Sublime Text 2 on Mac and Linux. Windows & ST3 support on the way.
