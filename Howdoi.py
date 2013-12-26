@@ -9,8 +9,15 @@ class HowdoiDirectCommand(sublime_plugin.TextCommand):
 
                 if (len(cont)<1):
                     pass
-                else:        
-                    p = subprocess.Popen("howdoi " + cont,
+                else:
+
+                    if sublime.platform() == 'windows':
+                        path_prefix = ""
+                    else:
+                        path_prefix = "/usr/local/bin/" 
+
+
+                    p = subprocess.Popen(path_prefix + "howdoi " + cont,
                                          stdout=subprocess.PIPE,
                                          stderr=subprocess.PIPE,
                                          shell=True)
