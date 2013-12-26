@@ -20,3 +20,8 @@ Based on [howdoi](https://github.com/gleitz/howdoi).
 #### Compatibility
 
 Windows and Sublime Text 3 compatibility problems have been hopefully solved (thanks to [@saaguero](https://github.com/saaguero)), now it should work on all platforms.
+
+
+#### Problems or request to add some functionality?
+
+Tweet me at [@adr_zan](http://www.twitter.com/adr_zan).
